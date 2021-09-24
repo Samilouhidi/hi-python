@@ -47,4 +47,4 @@ while score_J1 < 5 and score_ordi < 5:
             elif index < valeur_reverse(choix_J1, choix_ordi, renverser):
                 score_ordi += 1
                 print(f"{choix} < {choix_joueur[choix_ordi]}")
-    print(f"{nom} :{score_J1} - {score_ordi}: ordi")
+    print(f"{nom} :{score_J1} - {score_ordi}: ordi") s
